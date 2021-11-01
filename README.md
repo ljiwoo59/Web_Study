@@ -28,8 +28,3 @@
 ### - Cookie & Session
 ### - MVC
 ### - Spring Framework
-  #### - Basics
-  #### - Spring Web MVC
-  #### - AOP
-  #### - MyBatis
-  #### - REST API
