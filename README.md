@@ -20,6 +20,8 @@
 ### - SQL
 ### - MySQL 함수
 ### - JOIN & SubQuery
+### - Aggregation
+### - Database Modeling
 
 ## [Back_Study](https://github.com/ljiwoo59/Back_Study)
 ### - Servlet
