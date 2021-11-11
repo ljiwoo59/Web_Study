@@ -14,6 +14,7 @@
 ### - JavaScript
 ### - jQuery
 ### - AJAX
+### - Vue.js
 
 ## [DB_Study](https://github.com/ljiwoo59/DB_Study)
 ### - RBDMS
